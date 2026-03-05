@@ -1,0 +1,61 @@
+﻿restaurant_name,pizza_type,price_eur,size_cm,district,central,rating,review_count,italian
+Pizza Berlino,Margherita,10.5,32,Mitte,1,4.4,550,1
+Pizza Berlino,Salami,13.9,32,Mitte,1,4.4,550,1
+Pizza Berlino,Funghi,13.9,32,Mitte,1,4.4,550,1
+Gino's Pizza & Pasta,Margherita,7.8,32,Kreuzberg ,1,4.3,21,1
+Gino's Pizza & Pasta,Salami,9.6,32,Kreuzberg ,1,4.3,21,1
+Gino's Pizza & Pasta,Funghi,9.6,32,Kreuzberg ,1,4.3,21,1
+Mehas Döner Pizza Pasta,Margherita,8.5,30,Pankow ,0,4.6,12,0
+Mehas Döner Pizza Pasta,Salami,9.5,30,Pankow ,0,4.6,12,0
+Mehas Döner Pizza Pasta,Funghi,9,30,Pankow ,0,4.6,12,0
+Amore Milano,Margherita,10,32,Friedrichshain-Kreuzberg,1,4.3,420,1
+Amore Milano,Salami,10,32,Friedrichshain-Kreuzberg,1,4.3,420,1
+Amore Milano,Funghi,10,32,Friedrichshain-Kreuzberg,1,4.3,420,1
+Mangali,Margherita,10.9,32, Steglitz-Zehlendorf ,0,4.4,3800,0
+Mangali,Salami,11.9,32, Steglitz-Zehlendorf ,0,4.4,3800,0
+Mangali,Funghi,11.9,32, Steglitz-Zehlendorf ,0,4.4,3800,0
+Bella Vita,Margherita,10.99,32,Tempelhof-Schöneberg,0,4.2,2100,1
+Bella Vita,Salami,11.99,32,Tempelhof-Schöneberg,0,4.2,2100,1
+Bella Vita,Funghi,11.99,32,Tempelhof-Schöneberg,0,4.2,2100,1
+Steglitzer Grillhaus,Margherita,8.5,32, Steglitz-Zehlendorf ,0,4.9,1100,0
+Steglitzer Grillhaus,Salami,11.5,32, Steglitz-Zehlendorf ,0,4.9,1100,0
+Steglitzer Grillhaus,Funghi,11.5,32, Steglitz-Zehlendorf ,0,4.9,1100,0
+Don Peppino,Margherita,12,32, Steglitz-Zehlendorf ,0,4.7,6400,1
+Don Peppino,Salami,14.5,32, Steglitz-Zehlendorf ,0,4.7,6400,1
+Don Peppino,Funghi,14.5,32, Steglitz-Zehlendorf ,0,4.7,6400,1
+Il Cardellino,Margherita,7.5,28, Steglitz-Zehlendorf ,0,4.5,3200,1
+Il Cardellino,Salami,8.5,28, Steglitz-Zehlendorf ,0,4.5,3200,1
+Il Cardellino,Funghi,8,28, Steglitz-Zehlendorf ,0,4.5,3200,1
+La Piazza,Margherita,11.2,32,Mitte,1,5,1400,1
+La Piazza,Salami,13.7,32,Mitte,1,5,1400,1
+La Piazza,Funghi,14.9,32,Mitte,1,5,1400,1
+Piccola Romantica,Margherita,13.9,32,Friedrichshain-Kreuzberg,1,4.6,2600,1
+Piccola Romantica,Salami,13.9,32,Friedrichshain-Kreuzberg,1,4.6,2600,1
+Piccola Romantica,Funghi,13.9,32,Friedrichshain-Kreuzberg,1,4.6,2600,1
+Pizza Peppino,Margherita,12.83,33,Mitte ,1,3.3,14,1
+Pizza Peppino,Salami,14.5,33,Mitte ,1,3.3,14,1
+Pizza Peppino,Funghi,13.5,33,Mitte ,1,3.3,14,1
+Miran Bistro,Margherita,9,32,Pankow,0,4.9,110,0
+Miran Bistro,Salami,10,32,Pankow,0,4.9,110,0
+Miran Bistro,Funghi,11,32,Pankow,0,4.9,110,0
+San Marco,Margherita,7.9,30,Pankow,0,3.9,300,1
+San Marco,Salami,8.9,30,Pankow,0,3.9,300,1
+San Marco,Funghi,8.9,30,Pankow,0,3.9,300,1
+Toros Pizza,Margherita,12,32,Friedrichshain-Kreuzberg,1,4.6,410,1
+Toros Pizza,Salami,13.3,32,Friedrichshain-Kreuzberg,1,4.6,410,1
+Toros Pizza,Funghi,12.9,32,Friedrichshain-Kreuzberg,1,4.6,410,1
+Rocca Pizza Pasta,Margherita,9,32,Pankow,0,2.4,390,1
+Rocca Pizza Pasta,Salami,10.9,32,Pankow,0,2.4,390,1
+Rocca Pizza Pasta,Funghi,9.9,32,Pankow,0,2.4,390,1
+Pizzeria Bianca,Margherita,10,30,Friedrichshain-Kreuzberg,1,5,130,1
+Pizzeria Bianca,Salami,12,30,Friedrichshain-Kreuzberg,1,5,130,1
+Pizzeria Bianca,Funghi,11,30,Friedrichshain-Kreuzberg,1,5,130,1
+Toros Pizza,Margherita,12,32,Friedrichshain-Kreuzberg,1,4.6,410,1
+Toros Pizza,Salami,13.3,32,Friedrichshain-Kreuzberg,1,4.6,410,1
+Toros Pizza,Funghi,12.9,32,Friedrichshain-Kreuzberg,1,4.6,410,1
+Edessa Grill,Margherita,6.5,28,Mitte,1,4.6,6,0
+Edessa Grill,Salami,7,28,Mitte,1,4.6,6,0
+Edessa Grill,Funghi,8,28,Mitte,1,4.6,6,0
+WORLD OF PIZZA,Margherita,10.99,26,Mitte,1,4.5,4800,1
+WORLD OF PIZZA,Salami,12.99,26,Mitte,1,4.5,4800,1
+WORLD OF PIZZA,Funghi,12.99,26,Mitte,1,4.5,4800,1
